@@ -47,13 +47,13 @@ I have used basic concepts of web development to make this web application. I ha
 *I have used _[hotstar]_(https://www.hotstar.com/in) for movie links.*
 ## Screenshots :point_down: 
 <div align="center">
-<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="s2.PNG" width="400" height= "250"></a>
+<a href="s1.png"><img src="s1.png" width="400" height= "250"></a> <a href="s2.png"><img src="s2.png" width="400" height= "250"></a>
 
-<a href="s3.PNG"><img src="s3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
+<a href="s3.png"><img src="s3.png" width="400" height= "250"></a> <a href="s4.png"><img src="s4.png" width="400" height= "250"></a>
 
-<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
+<a href="s5.png"><img src="s5.png" width="400" height= "250"></a> <a href="s6.png"><img src="s6.png" width="400" height= "250"></a>
 
-<a href="s7.PNG"><img src="s7.PNG" width="400" height= "250"></a> <a href="s8.PNG"><img src="s8.PNG" width="400" height= "250"></a>
+<a href="s7.png"><img src="s7.png" width="400" height= "250"></a> <a href="s8.png"><img src="s8.png" width="400" height= "250"></a>
 
-<a href="s9.PNG"><img src="s9.PNG" width="400" height= "250"></a> <a href="s10.PNG"><img src="s10.PNG" width="400" height= "250"></a>
+<a href="s9.png"><img src="s9.png" width="400" height= "250"></a> <a href="s10.png"><img src="s10.png" width="400" height= "250"></a>
 </div>
