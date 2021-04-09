@@ -1,5 +1,5 @@
 # MARVEL-AVENGERS :star_struck:
-[![Generic badge](https://img.shields.io/badge/intermediate-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/intermediate-javascript-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
 
 
 ***This new Web application is created by Ankita Sikder, student of BTECH, in University of Engineering and Management, Kolkata.***
@@ -8,7 +8,7 @@
 
 *Contact No: 918583939774*
 
-[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
+[![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/ankita.sikder.104) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down:
 **:heart_eyes:Avengers' fans will love this!!!:heart_eyes:**
