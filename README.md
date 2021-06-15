@@ -40,7 +40,7 @@ I have assembled all details and various interesting things about Avengers chara
 
 <div align="justified">
      
-I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animations for text, slideshow designing. 
+I have used basic concepts of web development to make this web application. I have used HTML5, CSS3 and JAVASCRIPT only. I have used slider, card, polaroid, table, figure, row column concepts for designing. I have used animations for text, slideshow designing. <br>
 I have used _[marvel fandom wiki]_(https://marvelcinematicuniverse.fandom.com/wiki/Marvel_Cinematic_Universe) for references of every avengers' characters. In the home page in marvel studious I have used this link for _[avengers' bio]_(https://www.marvel.com/characters).I have used _[hotstar]_(https://www.hotstar.com/in) for movie links.
 
 </div>
