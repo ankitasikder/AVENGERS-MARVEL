@@ -2,8 +2,6 @@
 
 ***Email Id: ankita.sikder14@gmail.com.***
 
-***Contact No: 8583939774.***
-
 <p align="left">
 <a href="https://www.facebook.com/ankita.sikder.104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ankita.sikder14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
@@ -24,11 +22,6 @@ Everyone loves AVENGERS. The Avengers were a team of extraordinary individuals, 
 
 ***LINK : :point_right: https://ankitasikder.github.io/AVENGERS-MARVEL/.*** 
 
-### Types of characters of avengers :point_down:
-
- - [x] 'Heroes'
- - [x] 'Villains'
-  
 ## Why I have made this :point_down:
 
 <div align="justified">
